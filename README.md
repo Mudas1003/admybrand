@@ -8,7 +8,7 @@ ADmyBRAND AI Suite is a next-generation, AI-powered marketing dashboard designed
 
 ## 🌟 Live Demo
 
-👉 [View Live Site](https://your-deployment-link.com) <!-- Replace with your actual deployment link -->
+👉 [View Live Site](https://admybrand-9ss8.vercel.app/) <!-- Replace with your actual deployment link -->
 
 ---
 
